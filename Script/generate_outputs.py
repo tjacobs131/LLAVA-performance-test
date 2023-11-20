@@ -2,6 +2,8 @@ import replicate
 import os
 import glob
 
+# --- Setup
+
 # Get api key from file
 script_dir = os.path.dirname(os.path.abspath(__file__))
 key_file_path = os.path.abspath(os.path.join(script_dir, "..", "..", "key.txt"))
@@ -10,8 +12,7 @@ with open(key_file_path, "r") as key_file:
 
 os.environ["REPLICATE_API_TOKEN"] = str(api_key)
 
-
-
+# --- Get data
 
 prompts = ["You are an expert in plant disease detection on leaves, are there any diseases that can you detect in this image?, your options are: rust (mild), rust (extreme), healthy. If you are not sure about the disease, you can say that you are unsure, but you must give your best answer at the end anyway."]
 
@@ -23,8 +24,7 @@ image_paths = glob.glob(os.path.join(image_dir, "**", "*.jpeg"), recursive=True)
 
 print("Amount of requests: " + str(image_dir.__len__() * prompts.__len__()))
 
-
-
+# --- Get outputs from the lvlm
 
 for prompt in prompts:
     print("--- Prompt: " + prompt + " ---")
