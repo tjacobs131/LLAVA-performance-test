@@ -25,6 +25,7 @@ image_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "img"))
 image_paths = glob.glob(os.path.join(image_dir, "**", "*.jpeg"), recursive=True)
 
 print("Amount of requests: " + str(image_dir.__len__() * prompts.__len__()))
+print("Estimated run time: " + str(len(image_dir) * len(prompts) * 5) + " sec.")
 
 
 # --- Get outputs from the LVLM ---
