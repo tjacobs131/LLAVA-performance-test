@@ -18,13 +18,13 @@ os.environ["REPLICATE_API_TOKEN"] = str(api_key)
 # --- Get data ---
 
 
-prompts = ["You are an expert in plant disease detection on leaves, are there any diseases that can you detect in this image?, your options are: rust (mild), rust (extreme), healthy. You are a part of an automatic farming control loop, therefore a final answer is absolutely necessary. Your job is to reason about the health status about the leaf that is provided. Output your final answer exactly like this: Final answer: [your choice out of the given options]. It does not matter how sure you are about your answer, it is crucial that you make your best guess anyway."]
+prompts = ["You are an expert in plant disease detection on leaves, are there any diseases that can you detect in this image?, your options are: rust (mild)., rust (extreme)., healthy.. You are a part of an automatic farming control loop, therefore a final answer is absolutely necessary. Your job is to reason about the health status about the leaf that is provided. Output your final answer in these brackets: []. It does not matter how sure you are about your answer, it is crucial that you make your best guess anyway. An example of a good output: Based on the image, the leaf appears to have yellow spots in a localised area. The presence of yellow spots on the leaf indicates that the plant is experiencing stress or damage due to rust, the affected area seems small compared to the size of the leaf. Therefore, the final answer is: [rust (mild)]"]
 
 # Get images
 image_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "img"))
 image_paths = glob.glob(os.path.join(image_dir, "**", "*.jpeg"), recursive=True)
 
-print("Amount of requests: " + str(image_dir.__len__() * prompts.__len__()))
+print("Amount of requests: " + str(len(image_dir) * len(prompts)))
 print("Estimated run time: " + str(len(image_dir) * len(prompts) * 5) + " sec.")
 
 
@@ -51,6 +51,15 @@ for prompt in prompts:
 
             image_count += 1    
 
-for output in outputs:
-    print(output + "\n")
+    print("\n")
+    
+    for output in outputs:
+        answer = output.lower().split("final answer: ")
+        if len(answer) == 1:
+            print("Unsure, no answer provided")
+        else:
+            answer = answer.replace(".", "")
+            print("Answer: " + answer[1].replace("final answer: ", ""))
+
+
 
