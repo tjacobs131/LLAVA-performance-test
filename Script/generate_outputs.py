@@ -1,27 +1,28 @@
-import replicate
-import os
 import glob
 import json
+import os
+
+import replicate
 
 use_api = False # Determines if the API will be called or not
 
 # --- Setup ----
 
-def find_in_dict(key, dictionary):
+def find_key_in_dictionary(key, dictionary):
     if isinstance(dictionary, dict):
         for k, v in dictionary.items():
             if k == key:
                 yield v
             elif isinstance(v, dict):
-                for result in find_in_dict(key, v):
+                for result in find_key_in_dictionary(key, v):
                     yield result
             elif isinstance(v, list):
                 for d in v:
-                    for result in find_in_dict(key, d):
+                    for result in find_key_in_dictionary(key, d):
                         yield result
     elif isinstance(dictionary, list):
         for d in dictionary:
-            for result in find_in_dict(key, d):
+            for result in find_key_in_dictionary(key, d):
                 yield result
 
 # Get api key from file
@@ -33,7 +34,6 @@ with open(key_file_path, "r") as key_file:
 os.environ["REPLICATE_API_TOKEN"] = str(api_key)
 
 outputs = []
-image_count = 0
 
 if use_api:
 
@@ -51,7 +51,7 @@ if use_api:
     print("Estimated run time: " + str(len(image_dir) * len(prompts) * 5) + " sec.")
 
     # --- Get outputs from the LVLM ---
-
+    image_count = 0
     for prompt in prompts:
         print("--- Prompt: " + prompt + " ---")
 
@@ -76,12 +76,16 @@ if use_api:
 
 else: # Not using the API
 
-    # --- Get outputs from file ---
-
+    # Get outputs from file
     outputs_path = os.path.abspath(os.path.join(script_dir, "..", "Outputs", "example_outputs.txt"))
     with open (outputs_path, "r") as outputs_file:
         outputs_text = outputs_file.read()
         outputs = outputs_text.split("\n\n")
+
+    output_count = 0
+    for output in outputs:
+        print("Output #" + str(output_count) + ": " + output + "\n")
+        output_count += 1
 
 # --- Analyse outputs ---
 
@@ -116,7 +120,7 @@ for output, annotation in zip(outputs, annotations):
     print("Decision #" + str(output_count) + ": " + extracted_output)
     
     # Extract the classTitle fields
-    class_titles = list(find_in_dict('classTitle', annotation))
+    class_titles = list(find_key_in_dictionary('classTitle', annotation))
 
     # Check if there are multiple classTitle fields
     if len(class_titles) > 1:
