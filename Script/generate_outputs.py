@@ -101,22 +101,24 @@ rust_levels_mapping = {
     4: 'rust (extreme)',
 }
 
+# Extract decision made by the LLM from the output
 output_count = 0
 for output in outputs:
     extracted_output = output[output.find("[") + 1:output.find("]")]
-
     output_count += 1
 
-    annotation_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "ann"))
-    annotation_paths = glob.glob(os.path.join(annotation_dir, "**", "*.json"), recursive=True)
+# Get paths to annotations
+annotation_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "ann"))
+annotation_paths = glob.glob(os.path.join(annotation_dir, "**", "*.json"), recursive=True)
 
+# Load annotations
 annotations = []
-
 for annotation_path in annotation_paths:
     with open(annotation_path, 'r') as f:
         annotation = json.load(f)
         annotations.append(annotation)
 
+# Compare the expected output with the actual output
 output_count = 0
 correct_count = 0
 print("\n\n --- Results --- \n\n")
