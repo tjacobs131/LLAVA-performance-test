@@ -4,7 +4,11 @@ import os
 
 import replicate
 
+import colorama
+from colorama import Fore, Style
+
 use_api = False # Determines if the API will be called or not
+outputs_file = "example_outputs.txt" # If use_api is False, this file will be used to get the outputs from
 
 # --- Setup ----
 
@@ -47,8 +51,8 @@ if use_api:
     image_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "img"))
     image_paths = glob.glob(os.path.join(image_dir, "**", "*.jpeg"), recursive=True)
 
-    print("Amount of requests: " + str(len(image_dir) * len(prompts)))
-    print("Estimated run time: " + str(len(image_dir) * len(prompts) * 5) + " sec.")
+    print("Amount of requests: " + str(len(image_paths) * len(prompts)))
+    print("Estimated run time: " + str(len(image_paths) * len(prompts) * 5) + " sec.")
 
     # --- Get outputs from the LVLM ---
     image_count = 0
@@ -106,7 +110,7 @@ for output in outputs:
     annotation_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "ann"))
     annotation_paths = glob.glob(os.path.join(annotation_dir, "**", "*.json"), recursive=True)
 
-    annotations = []
+annotations = []
 
 for annotation_path in annotation_paths:
     with open(annotation_path, 'r') as f:
@@ -114,6 +118,7 @@ for annotation_path in annotation_paths:
         annotations.append(annotation)
 
 output_count = 0
+correct_count = 0
 print("\n\n --- Results --- \n\n")
 for output, annotation in zip(outputs, annotations):
     extracted_output = output[output.find("[") + 1:output.find("]")]
@@ -134,8 +139,16 @@ for output, annotation in zip(outputs, annotations):
     
     # Compare the expected output with the actual output
     if expected_output == extracted_output:
-        print("The LLM's output matches the expected output.")
+        print(Fore.LIGHTGREEN_EX + "The LLM's output matches the expected output.")
+        correct_count += 1
     else:
-        print(f"The LLM's output ({extracted_output}) does not match the expected output ({expected_output}).")
+        print(Fore.LIGHTRED_EX + f"The LLM's output ({extracted_output}) does not match the expected output ({expected_output}).")
+    
+    print(Style.RESET_ALL)
 
     output_count += 1
+
+print("\n\n --- Summary --- \n\n")
+print("Amount of decisions: " + str(output_count))
+print("Amount of correct decisions: " + str(correct_count))
+print("Accuracy: " + str(correct_count / output_count * 100) + "%")
