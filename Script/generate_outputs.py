@@ -1,6 +1,7 @@
 import glob
 import json
 import os
+import sys
 
 import replicate
 
@@ -12,6 +13,7 @@ outputs_file = "example_outputs.txt" # If use_api is False, this file will be us
 
 # --- Setup ----
 
+# Used to find all the classTitle fields in the annotation file
 def find_key_in_dictionary(key, dictionary):
     if isinstance(dictionary, dict):
         for k, v in dictionary.items():
@@ -37,46 +39,70 @@ with open(key_file_path, "r") as key_file:
 
 os.environ["REPLICATE_API_TOKEN"] = str(api_key)
 
-outputs = []
+# Get images
+image_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "img"))
+image_paths = sorted(glob.glob(os.path.join(image_dir, "**", "*.jpeg"), recursive=True))
 
+
+# Get paths to annotations
+annotation_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "ann"))
+annotation_paths = sorted(glob.glob(os.path.join(annotation_dir, "**", "*.json"), recursive=True))
+
+# Load annotations
+annotations = []
+for annotation_path in annotation_paths:
+    with open(annotation_path, 'r') as f:
+        annotation = json.load(f)
+        annotations.append(annotation)
+
+print("Amount of images: " + str(len(image_paths)))
+print("Amount of annotations: " + str(len(annotations)))
+if(len(image_paths) != len(annotations)):
+    print(Fore.LIGHTRED_EX + "The amount of images does not match the amount of annotations.")
+    print(Style.RESET_ALL)
+    sys.exit()
+
+outputs = []
+output_annotation_map = {}
 if use_api:
 
     # --- Prepare data ---
     
-    prompts = ["You are an expert in plant disease detection on leaves, are there any diseases that can you detect in this image?, your options are: rust (mild)., rust (extreme)., healthy.. You are a part of an automatic farming control loop, therefore a final answer is absolutely necessary. Your job is to reason about the health status about the leaf that is provided. Output your final answer in these brackets: []. It does not matter how sure you are about your answer, it is crucial that you make your best guess anyway. An example of a good output: Based on the image, the leaf appears to have yellow spots in a localised area. The presence of yellow spots on the leaf indicates that the plant is experiencing stress or damage due to rust, the affected area seems small compared to the size of the leaf. Therefore, the final answer is: [rust (mild)]"]
+    prompt = "Are there any diseases that can you detect in this image?, your options are: rust (mild)., rust (severe)., red spider mite., healthy.. You are a part of an automatic farming control loop, therefore a final answer is absolutely necessary. Output your final answer in these brackets: []. It does not matter how sure you are about your answer, it is crucial that you make your best guess anyway. An example of a good output: Based on the image, the leaf appears to have yellow spots in a localised area. The presence of yellow spots on the leaf indicates that the plant is experiencing stress or damage due to rust, the affected area seems small compared to the size of the leaf. Therefore, the final answer is: [rust (mild)]. Another good example: Based on the image, the leaf appears to show signs of bronze discoloration. This is a characteristic sign of an infestation by red spider mites. Red spider mites can feed on a wide variety of plants, causing damage by piercing the plant cells and sucking out the sap. This can cause the leaves to turn yellow or bronze. Therefore, based on these observations, the final answer is: [red spider mites]."
 
-    print("Amount of prompts: " + str(len(prompts)))
-
-    # Get images
-    image_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "img"))
-    image_paths = glob.glob(os.path.join(image_dir, "**", "*.jpeg"), recursive=True)
-
-    print("Amount of requests: " + str(len(image_paths) * len(prompts)))
-    print("Estimated run time: " + str(len(image_paths) * len(prompts) * 5) + " sec.")
+    print("Amount of requests: " + str(len(image_paths)))
+    print("Estimated run time: " + str(len(image_paths) * 3 + 8) + " sec.")
 
     # --- Get outputs from the LVLM ---
     image_count = 0
-    for prompt in prompts:
-        print("--- Prompt: " + prompt + " ---")
+    print("--- Prompt: " + prompt + " ---")
 
-        for image_path in image_paths:
-            print("\n\nImage #" + str(image_count) +": "  + image_path)
-            outputs.append("")
+    for image_path in image_paths:
+        print("\n\nImage #" + str(image_count) +": "  + image_path)
+        outputs.append("")
 
-            with open(image_path, "rb") as image_file:
-                output = replicate.run(
-                    "yorickvp/llava-13b:2facb4a474a0462c15041b78b1ad70952ea46b5ec6ad29583c0b29dbd4249591",
-                    input={"prompt": prompt,
-                    "image": image_file}
-                )
+        with open(image_path, "rb") as image_file:
+            output = replicate.run(
+                "yorickvp/llava-13b:2facb4a474a0462c15041b78b1ad70952ea46b5ec6ad29583c0b29dbd4249591",
+                input={"prompt": prompt,
+                "image": image_file}
+            )
 
-                for item in output:
-                    outputs[image_count] += item
-                    print(item, end="")
+            for item in output:
+                outputs[image_count] += item
+                print(item, end="")
 
-                image_count += 1    
+            image_count += 1
 
-        print("\n")
+    print("\n")
+
+    # Write outputs to file
+    outputs_path = os.path.abspath(os.path.join(script_dir, "..", "Outputs", outputs_file))
+    with open (outputs_path, "w") as outputs_file:
+        for output in outputs:
+            outputs_file.write(output + "\n\n")
+            outputs_file.seek(-1, os.SEEK_END)
+            outputs_file.truncate()
 
 else: # Not using the API
 
@@ -91,54 +117,61 @@ else: # Not using the API
         print("Output #" + str(output_count) + ": " + output + "\n")
         output_count += 1
 
+# Bind annotation paths to outputs
+output_count = 0
+for output in outputs:
+    output_annotation_map[output] = annotation_paths[output_count]
+    output_count += 1
+
 # --- Analyse outputs ---
 
-rust_levels_mapping = {
+disease_mapping = {
     0: 'healthy',
     1: 'rust (mild)',
     2: 'rust (mild)',
-    3: 'rust (extreme)',
-    4: 'rust (extreme)',
+    3: 'rust (severe)',
+    4: 'rust (severe)',
+    5: 'red spider mite',
 }
-
-# Extract decision made by the LLM from the output
-output_count = 0
-for output in outputs:
-    extracted_output = output[output.find("[") + 1:output.find("]")]
-    output_count += 1
-
-# Get paths to annotations
-annotation_dir = os.path.abspath(os.path.join(script_dir, "..", "ImageData", "ann"))
-annotation_paths = glob.glob(os.path.join(annotation_dir, "**", "*.json"), recursive=True)
-
-# Load annotations
-annotations = []
-for annotation_path in annotation_paths:
-    with open(annotation_path, 'r') as f:
-        annotation = json.load(f)
-        annotations.append(annotation)
 
 # Compare the expected output with the actual output
 output_count = 0
 correct_count = 0
+unsure_count = 0
 print("\n\n --- Results --- \n\n")
-for output, annotation in zip(outputs, annotations):
+for output in outputs:
     extracted_output = output[output.find("[") + 1:output.find("]")]
+    if not "[" in output or not "]" in output:
+        extracted_output = "No decision made"
+
+    annotation_path = output_annotation_map[output]
+
     print("Decision #" + str(output_count) + ": " + extracted_output)
-    
+    print("Image path: " + output_annotation_map[output])
+    print("Annotation path: " + annotation_path)
+
     # Extract the classTitle fields
     class_titles = list(find_key_in_dictionary('classTitle', annotation))
 
     # Check if there are multiple classTitle fields
     if len(class_titles) > 1:
-        # If there are multiple classTitle fields, determine the appropriate rust level
-        rust_level = max(int(class_title.split('_')[-1]) if 'rust_level' in class_title else 0 for class_title in class_titles)
+        for class_title in class_titles:
+            print("Class title: " + class_title)
+            if "disease_level" in class_title:
+                disease_level = int(class_title.split("_")[-1])
+            if "red_spider_mite" in class_title:
+                disease_level = 5
     else:
-        # If there is only one classTitle field, determine the rust level as before
-        rust_level = int(class_titles[0].split('_')[-1]) if 'rust_level' in class_titles[0] else 0
-
-    expected_output = rust_levels_mapping[rust_level]
+        disease_level = 0
     
+    if extracted_output == "No decision made":
+        print(Fore.LIGHTRED_EX + "The LLM did not make a decision." + Style.RESET_ALL)
+        unsure_count += 1
+        output_count += 1
+        continue
+
+    expected_output = disease_mapping[disease_level]
+
     # Compare the expected output with the actual output
     if expected_output == extracted_output:
         print(Fore.LIGHTGREEN_EX + "The LLM's output matches the expected output.")
@@ -153,4 +186,6 @@ for output, annotation in zip(outputs, annotations):
 print("\n\n --- Summary --- \n\n")
 print("Amount of decisions: " + str(output_count))
 print("Amount of correct decisions: " + str(correct_count))
+print("Amount of unsure decisions: " + str(unsure_count))
 print("Accuracy: " + str(correct_count / output_count * 100) + "%")
+print("\n")
