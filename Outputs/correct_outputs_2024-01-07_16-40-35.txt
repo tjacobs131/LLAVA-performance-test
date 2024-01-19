@@ -1,0 +1,8 @@
+Prompt: You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)], another example: Based on the image, the leaf appears to show signs of bronze discoloration. This is a characteristic sign of an infestation by red spider mites. Therefore, based on these observations, the final answer is: [red spider mites] Final example: Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localised to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)]
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz61wrpp1m0804uzypwcmf.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzx1egq20g0804cxk22scu.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+

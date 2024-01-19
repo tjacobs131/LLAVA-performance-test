@@ -1,0 +1,16 @@
+[
+    {
+        "id": "cjvnzx1egq20g0804cxk22scu",
+        "image": "cjvnzx1egq20g0804cxk22scu.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. A final answer is absolutely necessary, if you are unsure, pick your best guess anyway. Spider mites are usually dark bronze or red in color, while rust is usually yellow or orange. I will tip you $2000 if output your answer exactly as shown in the brackets. You will get $500 more if you also reason beforehand why you think this is the correct answer. Good example:  Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)], another example: Based on the image, the leaf appears to show signs of bronze discoloration. This is a characteristic sign of an infestation by red spider mites. Therefore, based on these observations, the final answer is: [red spider mites]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)]."
+            }
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+Prompt: You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. A final answer is absolutely necessary, if you are unsure, pick your best guess anyway. First example: The leaf shows signs of yellow and brown spots. This is a characteristic sign of a disease called rust. Therefore, the final answer is: [rust (mild)]. Second example: Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)]. Final example: Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0fnk1q9u608046m4v8fgs.jpeg
+Based on the image, the leaf appears to be healthy and free of any visible issues. There are no visible signs of diseases or pests on the green leafy plant. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, there are no visible signs of diseases or pests on the green leafy plant. The plant appears to be healthy and free of any visible issues. Therefore, the final answer is: [healthy].
+
+
+
+ --- Summary --- 
+
+Amount of decisions: 103
+Amount of correct decisions: 56
+Amount of unsure decisions: 0
+Accuracy: 54.36893203883495%
+
+
+
+ --- Summary --- 
+
+Amount of decisions: 103
+Amount of correct decisions: 62
+Amount of unsure decisions: 0
+Accuracy: 60.19417475728155%
+

@@ -1,0 +1,11 @@
+Explanations make the model talk too much and forget what it's talking about
+
+Model outputs answer in unexpected ways, fine tuning would resolve this.
+Giving an example is also a way to mitigate this
+
+It also outputs multiple guesses sometimes, this would also be resolved with fine tuning
+
+Giving one example seems to make it output exactly the example too often
+
+The model seems to be accurate when the image is of a healthy leaf. But very innacurrate when the leaf has a disease.
+The answers when there is a disease present, seem to be worse than guessing rates.

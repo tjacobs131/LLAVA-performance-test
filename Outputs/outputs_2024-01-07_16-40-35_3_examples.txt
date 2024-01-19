@@ -1,0 +1,320 @@
+Prompt: You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. I will give you some examples, adapt them to what you see in the image Example: Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localised to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)] Final example: Based on the image, the leaf appears to show signs of bronze discoloration. This is a characteristic sign of an infestation by red spider mites. Therefore, based on these observations, the final answer is: [red spider mites] 
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to be localized to a small area on the leaf. This is a sign of mild rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to show signs of yellow-orange discoloration. The discoloration seems to have spread through the whole leaf. This is a characteristic sign of severe rust. Therefore, the final answer is: [rust (severe)].
+
+
+
+ --- Summary --- 
+
+Amount of decisions: 103
+Amount of correct decisions: 2
+Amount of unsure decisions: 0
+Accuracy: 60,1917475728155338%
+

@@ -1,0 +1,152 @@
+Prompt: You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Example: Based on the image, the leaf appears to show signs of bronze discoloration. This is a characteristic sign of an infestation by red spider mites. Therefore, based on these observations, the final answer is: [red spider mites]
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyklt4prx9086649r7s69b.jpeg
+Based on the image, I cannot confidently identify any diseases or pests affecting the leaf. The leaf appears to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyn5supgpu08048e53oou3.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. The leaf is green and has a slightly curved shape, which is a characteristic of healthy leaves. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyncv3plzg0828vs4jk84z.jpeg
+Based on the image, the leaf appears to show signs of yellowing and brown spots. This is a characteristic sign of a disease called rust. Therefore, based on these observations, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyos5opj3t0795uvrdd7l8.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. The leaf is green and has a shiny texture, which indicates that it is in good condition. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyp3qjpkv80984x8rukm31.jpeg
+Based on the image, I cannot confidently identify any diseases or pests on the leaf. The leaf appears to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnypnygpz920a7093elazve.jpeg
+Based on the image, the leaf appears to show signs of brown spots. This is a characteristic sign of a disease called rust. Therefore, based on these observations, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to show signs of yellow discoloration. This could be a result of various factors such as nutrient deficiency, overwatering, or pests. However, without more specific details or a close-up view of the leaf, it is not possible to definitively identify the exact cause of the discoloration. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqyu1picz080453flqe40.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. The leaf is green and has a natural shape, indicating that it is not affected by any significant diseases or pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnysmt1pknd0795nprydqki.jpeg
+Based on the image, the leaf appears to be green and healthy, with no visible signs of rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyueasponc0828odwgu1bu.jpeg
+Based on the image, the leaf appears to be healthy and green, without any visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyvn0eq1qx0a70o0p8409s.jpeg
+Based on the image, the leaf appears to show signs of brown spots and yellowing. These symptoms are consistent with a disease caused by a fungal pathogen, such as rust. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyw20xps2y0a08plpdjhfx.jpeg
+Based on the image, it is difficult to definitively identify any diseases or pests affecting the leaf. The leaf appears to be healthy, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnywsjnpmjz0795sh7w4y4v.jpeg
+Based on the image, I cannot confidently identify any diseases or pests on the leaf. The leaf appears to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyxi85prvx0838el0guja5.jpeg
+Based on the image, I cannot definitively identify any diseases or pests affecting the leaf. The leaf appears to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyyqyypnf407952tb3a77q.jpeg
+Based on the image, I cannot confidently identify any diseases or pests affecting the leaf. The leaf appears to be healthy and green, with no visible signs of rust, red spider mites, or any other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz0vyrpo7g0795lqz4zers.jpeg
+Based on the image, the leaf appears to be healthy and free of any visible diseases or pests. The leaf is green and leafy, indicating that it is well-nourished and not affected by any significant issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz1puwpthw0838zka3bu78.jpeg
+Based on the image, I cannot confidently identify any specific diseases or pests affecting the leaves. The leaves appear to be healthy and green, without any visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz2f1lpup80a08sp6r7j9j.jpeg
+Based on the image, there are no visible signs of diseases or pests on the leaf. The leaf appears to be healthy, with no discoloration, spots, or other abnormalities. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz3s7npuc70838bvyiroie.jpeg
+Based on the image, the leaf appears to be healthy and green, without any visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz49l3ppoq0795fkugt1vp.jpeg
+Based on the image, the leaf appears to be healthy and green. There are no visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz5cjbq5rz0a70mvhgiflq.jpeg
+Based on the image, the leaf appears to be healthy and green, with no visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz73zjppi40804g569f7wh.jpeg
+Based on the image, the leaf appears to show signs of yellowing and brown spots. These symptoms are consistent with a disease called rust. Rust is a fungal disease that affects various plants, including leaves. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz75kyppis08040t7enbxb.jpeg
+Based on the image, the leaf appears to show signs of yellowing and brown spots. This could indicate a fungal infection or a nutrient deficiency. However, without further information or a closer examination of the leaf, it is not possible to definitively determine the specific disease or cause of the leaf's condition. Therefore, the most accurate answer would be: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz7x2eq1wu08668n07uca0.jpeg
+Based on the image, the leaf appears to show signs of brown spots. This could be a sign of several diseases or pests, such as rust, red spider mites, or even natural aging of the leaf. However, without more specific details or a clearer view of the leaf, it is not possible to definitively identify the exact cause of the brown spots. Therefore, the best answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz90h2q78j0a70ub3wsx19.jpeg
+Based on the image, the leaf appears to show signs of brown spots. This could indicate a disease or pest infestation. However, without more specific details or a closer examination of the leaf, it is not possible to definitively identify the exact cause of the brown spots. Therefore, the answer is: [healthy]
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzbv1bprrv080416b6utpq.jpeg
+Based on the image, the leaf appears to show signs of yellowing and curling. This could be indicative of a few different issues, such as nutrient deficiencies, overwatering, or pests. However, without more specific details or a closer examination of the leaf, it is not possible to definitively identify the exact cause of the leaf's condition. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzcd1eprzy0804nr8856gt.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. The leaf is green and leafy, indicating that it is in good condition. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzdrb2q4sf086622hjhot9.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust or red spider mites. The leaf is green, and the plant appears to be growing in a dirt field, which suggests that it is not affected by any severe diseases or infestations. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnze0vppslu0804wdnxs8jd.jpeg
+Based on the image, the leaf appears to be healthy and green, with no visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzeu64q0580838h3pxt0d7.jpeg
+Based on the image, the leaf appears to show signs of brown spots. This is a characteristic sign of a disease called rust. Therefore, based on these observations, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzfmvupykk0828bdu1ochz.jpeg
+Based on the image, the leaf appears to be healthy and green, without any visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzfnvypvfh0795hqhwuw59.jpeg
+Based on the image, I cannot confidently identify any diseases or pests affecting the leaves. The leaves appear to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. The final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzgfmeqay40a70d0sog3hz.jpeg
+Based on the image, the leaf appears to show signs of discoloration, which could be indicative of a disease or pest infestation. However, without more specific details about the leaf's appearance, it is not possible to definitively identify the exact cause of the discoloration. Therefore, the most accurate answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzivutpwwt0795jvqxgu9s.jpeg
+Based on the image, I cannot confidently identify any specific disease or pest infestation on the leaves. The leaves appear to be green and healthy, without any visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzkf7qpz0g0984ol4gl9w7.jpeg
+Based on the image, I cannot confidently detect any diseases or pests on the leaf. The leaf appears to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzmn5jq9cn086604ud6o1k.jpeg
+Based on the image, the leaf appears to be healthy and free of any visible diseases or pests. The leaf is green and has a shiny appearance, which indicates that it is well-nourished and not affected by any significant issues. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzned3pxb608046v317oka.jpeg
+Based on the image, the leaf appears to show signs of yellowing and brown spots. These symptoms are consistent with a fungal infection, which could be rust. However, it is not possible to definitively determine the severity of the rust infection from the image alone. Therefore, the final answer is: [rust (mild)].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzoa15qegy0a70tkulwuu3.jpeg
+Based on the image, the leaf appears to be healthy, with no signs of rust, severe rust, or red spider mites. The leaf is green, and there are no visible signs of discoloration or damage. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzoim8qa6l0866qqqbxqoc.jpeg
+Based on the image, the leaf appears to be healthy, with no signs of rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzq5rkq0cj0795f24s664f.jpeg
+Based on the image, I cannot confidently identify any diseases or pests affecting the leaves. The leaves appear to be healthy and green, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzqma9q5ro0838y93iv6mv.jpeg
+Based on the image, there are no visible signs of diseases or pests on the leaf. The leaf appears to be healthy and green, indicating that it is not affected by rust, red spider mites, or any other diseases. The final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzsbhoq6fh0838gvmbi9ob.jpeg
+Based on the image, the leaf appears to show signs of yellowing and discoloration. This could be indicative of a nutrient deficiency or a disease. However, without more specific details or a closer examination of the leaf, it is not possible to definitively identify the exact cause of the discoloration. Therefore, the answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzunygqcxp0866e1jxxirf.jpeg
+Based on the image, the leaf appears to be healthy and green, with no visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzw45kqdiw0866rtdch9dc.jpeg
+Based on the image, the leaf appears to be healthy and green, without any visible signs of rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzxqdtqe4j08667fetdmrd.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. The leaf is green and leafy, indicating that it is well-nourished and not affected by any diseases or pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzxzt3q4zj0984npbvle3i.jpeg
+Based on the image, the leaf appears to be healthy, with no visible signs of rust, severe rust, or red spider mites. The leaf is green and leafy, indicating that it is in good condition. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo00hrqqjwf0a704k8r8zwk.jpeg
+Based on the image, I cannot confidently identify any diseases or pests on the leaf. The leaf appears to be healthy, with no visible signs of rust, red spider mites, or other diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0fnk1q9u608046m4v8fgs.jpeg
+Based on the image, the leaf appears to be healthy with no visible signs of rust or red spider mites. The leaf is green and has a few spots, but these spots are not indicative of any diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0hbr5qqx30a70d3atuwye.jpeg
+Based on the image, the leaf appears to be healthy and green, without any visible signs of rust, severe rust, or red spider mites. Therefore, the final answer is: [healthy].
+

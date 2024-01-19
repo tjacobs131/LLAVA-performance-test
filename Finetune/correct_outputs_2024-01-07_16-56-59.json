@@ -1,0 +1,786 @@
+[
+    {
+        "id": "cjvnyj0acpjx10828yqtmencc",
+        "image": "cjvnyj0acpjx10828yqtmencc.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyklt4prx9086649r7s69b",
+        "image": "cjvnyklt4prx9086649r7s69b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and it is not affected by rust or red spider mites. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyma4mpnxo0a08m273alaw",
+        "image": "cjvnyma4mpnxo0a08m273alaw.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyn5supgpu08048e53oou3",
+        "image": "cjvnyn5supgpu08048e53oou3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]"
+            }
+        ]
+    },
+    {
+        "id": "cjvnyos5opj3t0795uvrdd7l8",
+        "image": "cjvnyos5opj3t0795uvrdd7l8.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyp3qjpkv80984x8rukm31",
+        "image": "cjvnyp3qjpkv80984x8rukm31.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be thriving. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyqlmopznx0a70vhxcbcj0",
+        "image": "cjvnyqlmopznx0a70vhxcbcj0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyqyu1picz080453flqe40",
+        "image": "cjvnyqyu1picz080453flqe40.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnysmt1pknd0795nprydqki",
+        "image": "cjvnysmt1pknd0795nprydqki.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyueasponc0828odwgu1bu",
+        "image": "cjvnyueasponc0828odwgu1bu.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyw20xps2y0a08plpdjhfx",
+        "image": "cjvnyw20xps2y0a08plpdjhfx.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnywsjnpmjz0795sh7w4y4v",
+        "image": "cjvnywsjnpmjz0795sh7w4y4v.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyxi85prvx0838el0guja5",
+        "image": "cjvnyxi85prvx0838el0guja5.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnyyqyypnf407952tb3a77q",
+        "image": "cjvnyyqyypnf407952tb3a77q.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz0eh4pr5s0828cfppc8u9",
+        "image": "cjvnz0eh4pr5s0828cfppc8u9.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of disease. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz0vyrpo7g0795lqz4zers",
+        "image": "cjvnz0vyrpo7g0795lqz4zers.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz1puwpthw0838zka3bu78",
+        "image": "cjvnz1puwpthw0838zka3bu78.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms that would indicate the presence of a disease. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz2f1lpup80a08sp6r7j9j",
+        "image": "cjvnz2f1lpup80a08sp6r7j9j.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz3s7npuc70838bvyiroie",
+        "image": "cjvnz3s7npuc70838bvyiroie.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz49l3ppoq0795fkugt1vp",
+        "image": "cjvnz49l3ppoq0795fkugt1vp.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a healthy environment. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz5cjbq5rz0a70mvhgiflq",
+        "image": "cjvnz5cjbq5rz0a70mvhgiflq.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms of diseases. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz75kyppis08040t7enbxb",
+        "image": "cjvnz75kyppis08040t7enbxb.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and it is not covered in rust or red spider mites. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz7p7jpx2o0a08o7k0v2el",
+        "image": "cjvnz7p7jpx2o0a08o7k0v2el.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz7x2eq1wu08668n07uca0",
+        "image": "cjvnz7x2eq1wu08668n07uca0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz90h2q78j0a70ub3wsx19",
+        "image": "cjvnz90h2q78j0a70ub3wsx19.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnz9a8nq7dw0a70y09a3anz",
+        "image": "cjvnz9a8nq7dw0a70y09a3anz.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnza11jpy670a0826rf8b58",
+        "image": "cjvnza11jpy670a0826rf8b58.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms that could indicate a disease. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzbv1bprrv080416b6utpq",
+        "image": "cjvnzbv1bprrv080416b6utpq.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzcd1eprzy0804nr8856gt",
+        "image": "cjvnzcd1eprzy0804nr8856gt.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any visible diseases. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzdrb2q4sf086622hjhot9",
+        "image": "cjvnzdrb2q4sf086622hjhot9.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested with any visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnze0vppslu0804wdnxs8jd",
+        "image": "cjvnze0vppslu0804wdnxs8jd.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzf2a1q09e0838jezgl0ik",
+        "image": "cjvnzf2a1q09e0838jezgl0ik.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested with any visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzfmvupykk0828bdu1ochz",
+        "image": "cjvnzfmvupykk0828bdu1ochz.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzfnvypvfh0795hqhwuw59",
+        "image": "cjvnzfnvypvfh0795hqhwuw59.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzgfmeqay40a70d0sog3hz",
+        "image": "cjvnzgfmeqay40a70d0sog3hz.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested with any visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzivutpwwt0795jvqxgu9s",
+        "image": "cjvnzivutpwwt0795jvqxgu9s.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and there are no visible pests or fungal growth. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzkf7qpz0g0984ol4gl9w7",
+        "image": "cjvnzkf7qpz0g0984ol4gl9w7.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of diseases. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzluacq9210866i3l2qhwk",
+        "image": "cjvnzluacq9210866i3l2qhwk.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a natural environment. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzmn5jq9cn086604ud6o1k",
+        "image": "cjvnzmn5jq9cn086604ud6o1k.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzoa15qegy0a70tkulwuu3",
+        "image": "cjvnzoa15qegy0a70tkulwuu3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzoim8qa6l0866qqqbxqoc",
+        "image": "cjvnzoim8qa6l0866qqqbxqoc.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a healthy environment. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzq0pnqf8i0a7004grva06",
+        "image": "cjvnzq0pnqf8i0a7004grva06.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzq5rkq0cj0795f24s664f",
+        "image": "cjvnzq5rkq0cj0795f24s664f.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration, pests, or diseases. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzqma9q5ro0838y93iv6mv",
+        "image": "cjvnzqma9q5ro0838y93iv6mv.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of disease. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzsbhoq6fh0838gvmbi9ob",
+        "image": "cjvnzsbhoq6fh0838gvmbi9ob.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzunygqcxp0866e1jxxirf",
+        "image": "cjvnzunygqcxp0866e1jxxirf.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible diseases. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzw45kqdiw0866rtdch9dc",
+        "image": "cjvnzw45kqdiw0866rtdch9dc.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzxqdtqe4j08667fetdmrd",
+        "image": "cjvnzxqdtqe4j08667fetdmrd.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms that could indicate a disease. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvnzxzt3q4zj0984npbvle3i",
+        "image": "cjvnzxzt3q4zj0984npbvle3i.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not affected by rust or red spider mites. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo00hrqqjwf0a704k8r8zwk",
+        "image": "cjvo00hrqqjwf0a704k8r8zwk.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo0b86zqaoh0984veat83lz",
+        "image": "cjvo0b86zqaoh0984veat83lz.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo0det4qp9r0a704ui5fwc4",
+        "image": "cjvo0det4qp9r0a704ui5fwc4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo0dty4qft108386j8359qa",
+        "image": "cjvo0dty4qft108386j8359qa.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo0fnk1q9u608046m4v8fgs",
+        "image": "cjvo0fnk1q9u608046m4v8fgs.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo0h4s9qh460838uinptrcv",
+        "image": "cjvo0h4s9qh460838uinptrcv.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is [healthy]."
+            }
+        ]
+    },
+    {
+        "id": "cjvo0hbr5qqx30a70d3atuwye",
+        "image": "cjvo0hbr5qqx30a70d3atuwye.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]"
+            },
+            {
+                "from": "gpt",
+                "value": "Based on the image, the leaf appears to be completely green, with no signs of discoloration or visible damage. Therefore, the final answer is: [healthy]."
+            }
+        ]
+    }
+]

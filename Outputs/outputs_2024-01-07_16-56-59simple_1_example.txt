@@ -1,0 +1,320 @@
+Prompt: You are an expert in disease identification on leaves. Are there any diseases that can you detect in this image? Your options are: [rust (mild)]., [rust (severe)]., [red spider mite]., [healthy]. Good example: Based on the image, the leaf appears to be completely green, there are no signs of discoloration. Therefore, the final answer is: [healthy]
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyj0acpjx10828yqtmencc.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyju42pf1l08042dcto2ls.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not visibly damaged. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyklt4prx9086649r7s69b.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and it is not affected by rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylfampnjf0a088k1l2vxz.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnym7swpxxx0a705lyw4tm3.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and there are no visible rust or red spider mite infestations. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyn5supgpu08048e53oou3.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy]
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyncv3plzg0828vs4jk84z.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not covered in spots or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyp3qjpkv80984x8rukm31.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be thriving. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyrms8pk780795wvgolis9.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnys1b8ppiy0838649u5dlt.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or rust, and there are no visible red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnytf57pq5g0838yyg7hhqw.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a healthy environment. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyueasponc0828odwgu1bu.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyxugwq2rb0a70v2v0znu6.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyzkn9ppo50984h4b9iy8a.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyzkn9ppo50984h4b9iy8a.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz0vyrpo7g0795lqz4zers.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz1i5apn0n0804dkwoqk6b.jpeg
+Based on the image, the leaf appears to be completely green, with no signs of discoloration or rust. There are also no visible red spider mites or other pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz1puwpthw0838zka3bu78.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms that would indicate the presence of a disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz317nq4pp0a70t877r37l.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested by any visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnytf57pq5g0838yyg7hhqw.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a healthy environment. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz4ihtpsy00828gc9ykrtw.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and there are no visible spots or patterns that indicate the presence of rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz5cjbq5rz0a70mvhgiflq.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms of diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz73zjppi40804g569f7wh.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not showing any signs of rust or spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnz75kyppis08040t7enbxb.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and it is not covered in rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnza11jpy670a0826rf8b58.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms that could indicate a disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzcd1eprzy0804nr8856gt.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzdcn8psev08043yfs0bmn.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzdrb2q4sf086622hjhot9.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested with any visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzeu64q0580838h3pxt0d7.jpeg
+Based on the image, the leaf appears to be completely green, with no signs of discoloration or visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzdrb2q4sf086622hjhot9.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested with any visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzdcn8psev08043yfs0bmn.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzdrb2q4sf086622hjhot9.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not damaged or infested with any visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyzkn9ppo50984h4b9iy8a.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzivutpwwt0795jvqxgu9s.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and there are no visible pests or fungal growth. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyklt4prx9086649r7s69b.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and it is not affected by rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzkf7qpz0g0984ol4gl9w7.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzeu64q0580838h3pxt0d7.jpeg
+Based on the image, the leaf appears to be completely green, with no signs of discoloration or visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzluacq9210866i3l2qhwk.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a natural environment. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzned3pxb608046v317oka.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration, rust, or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnytf57pq5g0838yyg7hhqw.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the plant seems to be growing in a healthy environment. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzpdshq19d0984fdz16xxm.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or rust. The leaf is also not affected by red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzpg1dpyr90804u3vddpbh.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not falling off. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzq5rkq0cj0795f24s664f.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration, pests, or diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyzkn9ppo50984h4b9iy8a.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms of disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyrms8pk780795wvgolis9.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzuvkvq2ei0795oeeovpym.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration or visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzvgymq8550a08gbhbchza.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and there are no visible pests or insects. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylfampnjf0a088k1l2vxz.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzx1egq20g0804cxk22scu.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not covered in rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnza11jpy670a0826rf8b58.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms that could indicate a disease. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnzxzt3q4zj0984npbvle3i.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and the leaf is not affected by rust or red spider mites. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0a8nxqe6308380d114mbv.jpeg
+Based on the image, the leaf appears to be completely green, with no signs of discoloration or rust. There are no visible red spider mites or any other visible diseases. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnym7swpxxx0a705lyw4tm3.jpeg
+Based on the image, the leaf appears to be completely green, there are no signs of discoloration, and there are no visible rust or red spider mite infestations. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyiclfpm5o0a08g70zob93.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnyqlmopznx0a70vhxcbcj0.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or other visible symptoms. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0eevzqpql0a70bkb0dcq7.jpeg
+Based on the image, the leaf appears to be completely green, with no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvnylbu3pfuh0804t5drupde.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or visible pests. Therefore, the final answer is: [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0h4s9qh460838uinptrcv.jpeg
+Based on the image, the leaf appears to be completely green, and there are no signs of discoloration or any other visible symptoms. Therefore, the final answer is [healthy].
+
+Image path: E:\Programs\LLAVA comparison\LLAVA-performance-test\ImageData\img\cjvo0hbr5qqx30a70d3atuwye.jpeg
+Based on the image, the leaf appears to be completely green, with no signs of discoloration or visible damage. Therefore, the final answer is: [healthy].
+
+
+
+ --- Summary --- 
+
+Amount of decisions: 103
+Amount of correct decisions: 38
+Amount of unsure decisions: 0
+Accuracy: 36.89320388349515%
+
